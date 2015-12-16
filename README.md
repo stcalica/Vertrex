@@ -1,15 +1,19 @@
-# trektheplanet
-Website Map Overlay for TrekThePlanet website
+# Vertrex
+
+Social Media Travelling World Map
+
+Will be written using jQuery, Bootstrap, Google-maps API and  Django Python! 
 
 
-Will be written using jQuery, Bootstrap, Google-maps API and hopefully Django Python! 
+Using the Facebook OpenConnect API, this application maps your friends around the world and suggests travelling routes based on their locations. 
 
 
-This website will track and log the travels and expenses of TechnoHippy and CyberPunk
-Be able to click on a site we are at or going to visit to see information on the trip and 
-a video diary listing from both of us. Along with highlight videoes. 
+Their location can be hometown, last place checked in, etc. 
 
-The site will allow people to donate to us and/or offer advice. 
+A path will be drawn from you to each of your friends in that country. 
 
-Probably will add facebook functionality or sometype of commenting system to be able to talk to visitors. 
+Pick a base in each country to map your trip. 
+
+Get the latest travelling updates and etc. 
+
 
