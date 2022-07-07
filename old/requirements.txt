@@ -54,7 +54,7 @@ python-libtorrent==0.16.13
 pyxdg==0.25
 queuelib==1.4.2
 reportlab==3.0
-requests==2.2.1
+requests==2.20.0
 service-identity==14.0.0
 sessioninstaller==0.0.0
 six==1.5.2
